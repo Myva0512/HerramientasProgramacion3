@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_Notas_Estudiantes", "Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes.csproj", "{8DF3F66C-6F83-4AA1-8007-20CAA8B44AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF3F66C-6F83-4AA1-8007-20CAA8B44AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF3F66C-6F83-4AA1-8007-20CAA8B44AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF3F66C-6F83-4AA1-8007-20CAA8B44AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF3F66C-6F83-4AA1-8007-20CAA8B44AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414CD790-174B-4C79-8893-A7E8636A814D}
+	EndGlobalSection
+EndGlobal
