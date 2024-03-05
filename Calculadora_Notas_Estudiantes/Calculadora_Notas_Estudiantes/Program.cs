@@ -154,7 +154,7 @@ namespace Calculadora_Notas_Estudiantes
                                 break;
                             }
 
-                            Console.Write("Ingrese la nota deseada: ");
+                            Console.Write("Ingrese la nota deseada con (,): ");
                             double notaDeseada5;
                             if (!double.TryParse(Console.ReadLine(), out notaDeseada5))
                             {
@@ -208,9 +208,6 @@ namespace Calculadora_Notas_Estudiantes
 
                 Console.WriteLine(""); // Imprimir una línea en blanco para separar visualmente las salidas en la consola
             }
-
         }
     }
-    
 }
-

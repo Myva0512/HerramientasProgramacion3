@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yurany\\Desktop\\tareas\\Herramientas de programacion 3\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez.csproj",
+      "projectUniqueName": "C:\\Users\\Yurany\\Desktop\\tareas\\Herramientas de programacion 3\\clonacion\\HerramientasProgramacion3\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez.csproj",
       "projectName": "TallerSgbYuranyVelasquez",
-      "projectPath": "C:\\Users\\Yurany\\Desktop\\tareas\\Herramientas de programacion 3\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez.csproj",
+      "projectPath": "C:\\Users\\Yurany\\Desktop\\tareas\\Herramientas de programacion 3\\clonacion\\HerramientasProgramacion3\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez.csproj",
       "packagesPath": "C:\\Users\\Yurany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yurany\\Desktop\\tareas\\Herramientas de programacion 3\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez\\obj\\",
+      "outputPath": "C:\\Users\\Yurany\\Desktop\\tareas\\Herramientas de programacion 3\\clonacion\\HerramientasProgramacion3\\TallerSgbYuranyVelasquez\\TallerSgbYuranyVelasquez\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yurany\\AppData\\Roaming\\NuGet\\NuGet.Config",

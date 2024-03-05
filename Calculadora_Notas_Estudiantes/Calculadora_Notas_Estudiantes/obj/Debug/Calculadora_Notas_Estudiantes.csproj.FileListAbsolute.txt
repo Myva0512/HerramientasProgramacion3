@@ -5,3 +5,10 @@ C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\Calculadora_Notas_
 C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.csproj.CoreCompileInputs.cache
 C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.exe
 C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.pdb
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\bin\Debug\Calculadora_Notas_Estudiantes.exe.config
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\bin\Debug\Calculadora_Notas_Estudiantes.exe
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\bin\Debug\Calculadora_Notas_Estudiantes.pdb
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.exe
+C:\Users\Yurany\Desktop\tareas\Herramientas de programacion 3\clonacion\HerramientasProgramacion3\Calculadora_Notas_Estudiantes\Calculadora_Notas_Estudiantes\obj\Debug\Calculadora_Notas_Estudiantes.pdb
