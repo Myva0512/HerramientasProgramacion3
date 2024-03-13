@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <title>Usuarios</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .book {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gestión de Usuarios</h1>
+        <h3>Registar Nuevo Usuario</h3>
+        <form id="formulario">
+            <label for="Nombre">Nombre:</label>
+            <input type="text" id="Nombre" name="Nombre" required>
+            <br>
+            <label for="Email">Email:</label>
+            <input type="text" id="Email" name="Email" required>
+            <br>
+            <label for="fechaNacimiento">Fecha de Nacimiento:</label>
+            <input type="date" id="fechaNacimiento" name="fechaNacimiento" required>
+        </form>
+        <button id="agregarUsuario">Agregar usuario</button>
+        <h2>Usuarios registrados en la biblioteca</h2>
+        <table id="UsuariosTable">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nombre</th>
+                    <th>Email</th>
+                    <th>Fecha de nacimiento</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    
+</body>
+<script src="Script2.js"></script>
+</html>

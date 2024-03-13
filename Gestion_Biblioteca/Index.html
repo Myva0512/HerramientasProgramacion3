@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles.css">
+    <title>Biblioteca</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .book {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gestión Biblioteca</h1>
+        <h3>Registar Nuevo Libro</h3>
+        <form id="formulario">
+            <label for="titulo">Título del Libro:</label>
+            <input type="text" id="titulo" name="titulo" required>
+            <br>
+            <label for="autor">Autor:</label>
+            <input type="text" id="autor" name="autor" required>
+            <br>
+            <label for="editorial">Editorial:</label>
+            <input type="text" id="editorial" name="editorial" required>
+            <br>
+            <label for="categoria">Categoría:</label>
+            <input type="text" id="categoria" name="categoria" required>
+            <br>
+            <label for="fechaPublicacion">Fecha de publicación:</label>
+            <input type="date" id="fechaPublicacion" name="fechaPublicacion" required>
+            <br>
+            <button type="submit" id="agregarLibro">Agregar libro</button>
+        </form>
+        <h2>Libros registrados en la biblioteca</h2>
+        <table id="librosTable">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Título</th>
+                    <th>Autor</th>
+                    <th>Editorial</th>
+                    <th>Categoría</th>
+                    <th>Fecha de publicación</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    
+</body>
+<script src="Script.js"></script>
+</html>
