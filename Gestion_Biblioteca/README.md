@@ -8,7 +8,7 @@ La versión actual del código en este repositorio es versión 1.0.0. Se recomie
 
 ## Lenguaje de programación
 
-El código en este repositorio está escrito en C#. Asegúrate de tener el entorno adecuado configurado para ejecutar el código.
+El código en este repositorio está escrito en HTML, JavaScript y CSS. Asegúrate de tener el entorno adecuado configurado para ejecutar el código.
 
 ## Prohibiciones
 
